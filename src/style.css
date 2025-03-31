@@ -8,6 +8,7 @@ body {
   position: relative;
 }
 
+
 /* Logo Styles */
 .logo {
   position: absolute;
@@ -57,4 +58,12 @@ button:hover {
 footer {
   text-align: center;
   padding: 10px;
+}
+
+p {
+  font-size: 20px;
+}
+
+.valor-area {
+  color: #ff1b7b;
 }
